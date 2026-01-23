@@ -5,8 +5,13 @@
     h1{
         color: aqua;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
     }
    
+    h2{
+        text-align: center;
+    }
+
     ul{
         color:aqua;
         list-style-type:georgian;
@@ -41,18 +46,24 @@
 
     .header{
         border: red thick solid;
+        margin: 10px;
     }
 
     .experience{
         border:rgb(254, 118, 68) thick solid;
+        margin: 10px;
     }
 
     .newsletter{
         border:yellow thick solid;
+        margin: 10px;
+        padding: 10px;
     }
 
     .gallery{
         border: blue thick solid;
+        margin-top: 100px;
+        padding-left: 30px;
     }
 
 

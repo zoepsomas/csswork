@@ -1,0 +1,34 @@
+body{
+    background-color: #948979;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+.heading{
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #222831;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.subheading{
+    font-size: 25px;
+    color: #222831;
+    margin: 10px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.profileimg{
+    display: block;
+    margin: auto;
+    border-color: #DFD0B8;
+    border-width: 10px;
+    border-style: solid;
+}
+
+h4{
+    color: #393E46;
+    text-align: center;
+}
